@@ -1,3 +1,7 @@
+body{
+	margin:0;
+}
+
 #content{
 	background-color:#e8e6e6;
 	height:720px;
@@ -152,7 +156,7 @@
 	height:50%;
 	position:absolute;
 	top:-10%;
-	width:99%;
+	width:98%;
 }
 
 #news :nth-child(3){
@@ -212,7 +216,7 @@
 	height:65%;
 	position:absolute;
 	top:19%;
-	width:99%;
+	width:98%;
 }
 
 #reward>div{
